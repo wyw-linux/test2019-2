@@ -1,1 +1,1 @@
-Initialization Git reposiroty
+something not important
